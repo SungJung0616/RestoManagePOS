@@ -1,9 +1,6 @@
 # RestoManagePOS
 A comprehensive Point of Sale (POS) system designed to enhance operational efficiency and customer experience in restaurants. Features customer self-ordering, real-time kitchen order updates, menu management, and sales analytics.
 
-
-# RestoManagePOS
-
 ## Project Overview
 
 RestoManagePOS is a Point of Sale (POS) system aimed at improving operational efficiency and enhancing the dining experience in restaurants. This system allows customers to browse menus, place orders directly from their table, and make payments seamlessly. For the restaurant management, it offers functionalities to manage orders, track sales, and update the menu offerings easily.
